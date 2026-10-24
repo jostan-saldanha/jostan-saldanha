@@ -72,6 +72,7 @@
 </div>
 
 ---
+
 ### 🐍 Contribution Activity
 
 <div align="center">
@@ -83,18 +84,16 @@
 </div>
 
 ---
-</div>
-### 📊 GitHub Activity & Metrics
 
 ### 📊 GitHub Activity & Metrics
 
-<!-- Total Contributions Banner & Quick Badges -->
+<!-- Dynamic Auto-Updating Total Contributions Badge -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-147+-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fjostan-saldanha%3Fy%3Dlast&query=%24.total.lastYear&label=Total%20Contributions&style=for-the-badge&color=00F2FE&logo=github&logoColor=black" alt="Total Contributions" />
 </div>
 <br>
 
-<!-- Activity Graph: Displays ALL 147+ Contributions (Public + Private) -->
+<!-- Activity Graph: Displays ALL Contributions Curve (Public + Private) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jostan-saldanha&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
@@ -108,4 +107,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jostan-saldanha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Building resilient firmware and edge intelligence from bare metal to cloud."</i>
 </div>
