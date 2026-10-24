@@ -86,17 +86,26 @@
 </div>
 ### 📊 GitHub Activity & Metrics
 
+### 📊 GitHub Activity & Metrics
+
+<!-- Total Contributions Banner & Quick Badges -->
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jostan-saldanha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jostan's GitHub Stats" />
+  <img src="https://img.shields.io/badge/Total_Contributions-147+-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions" />
+</div>
+<br>
+
+<!-- Activity Graph: Displays ALL 147+ Contributions (Public + Private) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jostan-saldanha&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+<br>
+
+<!-- Stats Card + Top Languages -->
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jostan-saldanha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Jostan's GitHub Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jostan-saldanha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jostan-saldanha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <i>"Building resilient firmware and edge intelligence from bare metal to cloud."</i>
 </div>
