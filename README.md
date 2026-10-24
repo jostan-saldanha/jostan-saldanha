@@ -93,9 +93,13 @@
 </div>
 <br>
 
-<!-- Activity Graph: Displays ALL Contributions Curve (Public + Private) -->
+<!-- Standard 2D Contribution Heatmap Calendar -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jostan-saldanha&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00f2fe/jostan-saldanha">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/216e39/jostan-saldanha">
+    <img src="https://ghchart.rshah.org/00f2fe/jostan-saldanha" alt="Jostan's Contribution Calendar Heatmap" width="100%" />
+  </picture>
 </div>
 <br>
 
